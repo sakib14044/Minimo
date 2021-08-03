@@ -2,6 +2,16 @@
 	margin: 0;
 	padding: 0;
 }
+p{
+	line-height: 22px;
+	color: gray;
+}
+h1{
+	color: gray;
+}
+h5{
+	color: gray;
+}
 header{
 
 overflow: hidden;
@@ -50,11 +60,11 @@ padding: 5px 60px;
 .photodairy h5{
 
 }
-.photodairy h5 h1{
-
+.photodairy h1{
+margin: 10px 0;
 }
-.photodairy h5 h1 p{
-
+.photodairy  p{
+margin-bottom: 10px;
 }
 .main-content{
 
