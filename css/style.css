@@ -1,0 +1,250 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+
+overflow: hidden;
+}
+header img{float: left;width: 20%;}
+.navbar{
+
+float: right;
+
+width: 50%;
+}
+.navbar ul{
+
+list-style: none;
+
+overflow: hidden;
+
+margin-top: 17px;
+}
+.navbar ul li{
+
+float: right;
+
+margin-left: 63px;
+
+margin-right: 10px;
+}
+.navbar ul li a{
+
+font-size: 15px;
+
+text-transform: uppercase;
+
+text-decoration: none;
+}
+.banner-part{
+
+margin: 35px 10px;
+}
+.banner-part img{
+	width: 100%;
+}
+.photodairy{
+padding: 5px 60px;
+}
+.photodairy h5{
+
+}
+.photodairy h5 h1{
+
+}
+.photodairy h5 h1 p{
+
+}
+.main-content{
+
+}
+.first-content{
+
+overflow: hidden;
+
+margin: 5%;
+}
+.left-content{
+
+width: 48%;
+
+float: left;
+}
+.left-content img{
+
+height: 334px;
+}
+.left-content h5{
+margin-top: 10px;
+}
+.left-content h1{
+	margin-top: 10px;
+}
+.left-content p{
+margin-top: 10px;
+}
+.right-content{
+
+width: 48%;
+
+float: right;
+}
+.right-content img{
+
+height: 334px;
+}
+.right-content h5{
+margin-top: 10px;
+}
+.right-content h1{
+margin-top: 10px;
+}
+.right-content p{
+margin-top: 10px;	
+}
+.second-content{
+
+overflow: hidden;
+
+margin: 5%;
+}
+.third-content{
+
+width: 48%;
+
+float: left;
+}
+.third-content img{
+
+}
+.third-content h5{
+margin-top: 10px;
+}
+.third-content h1{
+margin-top: 10px;
+}
+.third-content p{
+margin-top: 10px;
+}
+.fourth-content{
+
+width: 48%;
+
+float: right;
+}
+.fouth-content img{
+
+height: 334px;
+}
+.fourth-content h5{
+margin-top: 10px;
+}
+.fourth-content h1{
+margin-top: 10px;
+}
+.fourth-content p{
+	margin-top: 10px;
+}
+.signup{
+	width: 100%;
+	text-align: center;
+	background: #F0F0F0;
+	margin-bottom: 20px;
+}
+.middle{
+	padding: 80px 0px;
+	/*width: 40%;
+	padding: 60%;*/
+}
+.middle h1{
+	color: gray;
+}
+.area{  text-align: center;
+	/*border-bottom: 1px solid black;*/
+	width: 100%;
+	overflow: hidden;
+}
+.area input{
+	margin-top: 45px;
+	height: 25px;
+	width: 21%;
+	background: none;
+	border: 0;
+	border-bottom: 1px solid gray;
+}
+
+.area input:focus{
+	outline: none !important;
+	/*border: 0;
+	border-bottom: 1px solid gray;*/
+}
+
+.area img{
+	margin-left: -30px;
+}
+.travel{
+
+}
+.travel-content{
+
+overflow: hidden;
+
+margin: 5%;
+}
+.left{
+
+width: 48%;
+
+float: left;
+}
+.left img{
+
+height: 340px;
+}
+.left h5{
+margin-top: 10px;
+}
+.left h1{
+margin-top: 10px;
+}
+.left p{
+margin-top: 10px;
+}
+.right{
+
+width: 48%;
+
+float: right;
+}
+.right img{
+
+height: 340px;
+}
+.right h5{
+margin-top: 10px;
+}
+.right h1{
+	margin-top: 10px;
+}
+.right p{
+	margin-top: 10px;
+}
+.read{
+	text-align: center;
+	margin: 100px 0;
+}
+.read button{
+	padding: 10px 15px;
+	
+}
+.footer-area{
+overflow: hidden;
+padding: 30px 0;
+background: #F0F0F0;
+}
+.left-footer{float: left;margin-left: ;margin-left: 130px;}
+.right-footer{
+	float: right;
+	margin-right: 48px;
+}
